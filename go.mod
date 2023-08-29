@@ -3,7 +3,7 @@ module github.com/tynve/braive
 go 1.20
 
 require (
-	github.com/kevinburke/go-bindata v1.1.0
+	github.com/kevinburke/go-bindata v3.24.0+incompatible
 	github.com/tynve/kernal v1.57.53
 )
 
